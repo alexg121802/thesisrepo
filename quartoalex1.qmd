@@ -1,6 +1,9 @@
 ---
 title: "quartoalex1"
+bibliography: References.bib
+format: pdf 
 ---
+
 
 ## Quarto
 
@@ -9,3 +12,11 @@ Quarto enables you to weave together content and executable code into a finished
 ```{r}
 1 + 1
 ```
+
+[@dwivedi2017]
+
+## References
+Let $\omega$ be 
+$$
+\Omega
+$$
